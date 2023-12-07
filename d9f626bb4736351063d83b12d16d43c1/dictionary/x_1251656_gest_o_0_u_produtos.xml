@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8e4ae2bf4736351063d83b12d16d43d4" label="Produtos" max_length="40" name="x_1251656_gest_o_0_u_produtos" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Imagem" max_length="40" name="u_image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Item" max_length="40" name="u_item" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cabo AC/DC" sequence="0" value="Cabo AC/DC"/>
+                <element inactive_on_update="false" label="Cabo de Rede" sequence="0" value="Cabo de Rede"/>
+                <element inactive_on_update="false" label="Cabo USB" sequence="0" value="Cabo USB"/>
+                <element inactive_on_update="false" label="Carregador USB" sequence="0" value="Carregador USB"/>
+                <element inactive_on_update="false" label="Hub USB" sequence="0" value="Hub USB"/>
+                <element inactive_on_update="false" label="Mesa digitalizadora" sequence="0" value="Mesa digitalizadora"/>
+                <element inactive_on_update="false" label="Mouse" sequence="0" value="Mouse"/>
+                <element inactive_on_update="false" label="Projetor" sequence="0" value="Projetor"/>
+                <element inactive_on_update="false" label="Teclado" sequence="0" value="Teclado"/>
+                <element inactive_on_update="false" label="Tela de Projeção" sequence="0" value="Tela de Projeção"/>
+            </choice>
+        </element>
+        <element label="Quantidade" max_length="40" name="u_quantidade" type="integer"/>
+    </element>
+</database>
