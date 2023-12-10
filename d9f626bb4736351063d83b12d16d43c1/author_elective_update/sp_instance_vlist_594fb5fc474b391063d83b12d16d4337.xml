@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>u_item</display_field>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>10</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>xs</size>
+        <sp_column display_value="1">263f79fc474b391063d83b12d16d439b</sp_column>
+        <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 04:36:24</sys_created_on>
+        <sys_id>594fb5fc474b391063d83b12d16d4337</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_update_name>sp_instance_vlist_594fb5fc474b391063d83b12d16d4337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 23:23:14</sys_updated_on>
+        <table>x_1251656_gest_o_0_u_produtos</table>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "u_image",
+		"displayValue": "u_image"
+	},
+	"secondary_fields": {
+		"value": "u_quantidade",
+		"displayValue": "u_quantidade"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=594fb5fc474b391063d83b12d16d4337"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</application>
+        <file_path/>
+        <instance_id>7a137395dbb6b154ae4c9027c5961911</instance_id>
+        <instance_name>dev227345</instance_name>
+        <name>sp_instance_vlist_594fb5fc474b391063d83b12d16d4337</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;u_item&lt;/display_field&gt;&lt;field_list/&gt;&lt;filter/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;10&lt;/maximum_entries&gt;&lt;order&gt;1&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;xs&lt;/size&gt;&lt;sp_column display_value="1"&gt;263f79fc474b391063d83b12d16d439b&lt;/sp_column&gt;&lt;sp_page display_value="form"&gt;ed5f8ec347730200ba13a5554ee49046&lt;/sp_page&gt;&lt;sp_widget display_value="Simple List"&gt;5b255672cb03020000f8d856634c9c28&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-09 04:36:24&lt;/sys_created_on&gt;&lt;sys_id&gt;594fb5fc474b391063d83b12d16d4337&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0"&gt;d9f626bb4736351063d83b12d16d43c1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;d9f626bb4736351063d83b12d16d43c1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_594fb5fc474b391063d83b12d16d4337&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-09 23:23:14&lt;/sys_updated_on&gt;&lt;table&gt;x_1251656_gest_o_0_u_produtos&lt;/table&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "u_image",
+		"displayValue": "u_image"
+	},
+	"secondary_fields": {
+		"value": "u_quantidade",
+		"displayValue": "u_quantidade"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=594fb5fc474b391063d83b12d16d4337"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-797286365</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>92ac5fc0478b751063d83b12d16d43f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 23:23:14</sys_created_on>
+        <sys_id>3721ce41470f791063d83b12d16d4385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c50e4664e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 23:23:14</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>fb21ce41b20f79103c98fdb3373fbd84</update_guid>
+        <update_guid_history>fb21ce41b20f79103c98fdb3373fbd84:-797286365,bfd04a418a0f791001adffdecb4c3d33:-371167279,50b08a015d0f7910a446b3aec3114780:804777553,3e04c274848b3910647272a5c157fab2:-1204755859,ed4fb5fcfe4b3910517717f24411b538:418797807</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5ab9c285470f791063d83b12d16d4320</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:00:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>4ec461d57d65402c867d25a69bf6b1a4</sys_id>
+        <sys_metadata>594fb5fc474b391063d83b12d16d4337</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_scope_delete display_value="">1cd3cb25595648b88f1987e330c00240</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_594fb5fc474b391063d83b12d16d4337</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_594fb5fc474b391063d83b12d16d4337">3721ce41470f791063d83b12d16d4385</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:00:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

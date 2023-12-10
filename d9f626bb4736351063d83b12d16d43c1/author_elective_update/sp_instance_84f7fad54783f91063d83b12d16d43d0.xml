@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e5423e114783f91063d83b12d16d4317</sp_column>
+        <sp_widget display_value="Image Link">86776e0453331300a699ddeeff7b12be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 22:00:57</sys_created_on>
+        <sys_id>84f7fad54783f91063d83b12d16d43d0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Leonardo Miranda</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_update_name>sp_instance_84f7fad54783f91063d83b12d16d43d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 22:05:00</sys_updated_on>
+        <title>Leonardo Miranda</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"image": {
+		"value": "x_1251656_gest_o_0.Leonardo.png",
+		"displayValue": "x_1251656_gest_o_0.Leonardo.png"
+	},
+	"title": {
+		"value": "Leonardo Miranda",
+		"displayValue": "Leonardo Miranda"
+	},
+	"description": {
+		"value": "INSTRUTOR do Bootcamp AOOP Shark in ServiceNow #8",
+		"displayValue": "INSTRUTOR do Bootcamp AOOP Shark in ServiceNow #8"
+	},
+	"link": {
+		"value": "https://www.linkedin.com/in/leonardo-miranda-sn/",
+		"displayValue": "https://www.linkedin.com/in/leonardo-miranda-sn/"
+	},
+	"link_title": {
+		"value": "LinkedIn",
+		"displayValue": "LinkedIn"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=84f7fad54783f91063d83b12d16d43d0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</application>
+        <file_path/>
+        <instance_id>7a137395dbb6b154ae4c9027c5961911</instance_id>
+        <instance_name>dev227345</instance_name>
+        <name>sp_instance_84f7fad54783f91063d83b12d16d43d0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;e5423e114783f91063d83b12d16d4317&lt;/sp_column&gt;&lt;sp_widget display_value="Image Link"&gt;86776e0453331300a699ddeeff7b12be&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-10 22:00:57&lt;/sys_created_on&gt;&lt;sys_id&gt;84f7fad54783f91063d83b12d16d43d0&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Leonardo Miranda&lt;/sys_name&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0"&gt;d9f626bb4736351063d83b12d16d43c1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;d9f626bb4736351063d83b12d16d43c1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_84f7fad54783f91063d83b12d16d43d0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-10 22:05:00&lt;/sys_updated_on&gt;&lt;title&gt;Leonardo Miranda&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"image": {
+		"value": "x_1251656_gest_o_0.Leonardo.png",
+		"displayValue": "x_1251656_gest_o_0.Leonardo.png"
+	},
+	"title": {
+		"value": "Leonardo Miranda",
+		"displayValue": "Leonardo Miranda"
+	},
+	"description": {
+		"value": "INSTRUTOR do Bootcamp AOOP Shark in ServiceNow #8",
+		"displayValue": "INSTRUTOR do Bootcamp AOOP Shark in ServiceNow #8"
+	},
+	"link": {
+		"value": "https://www.linkedin.com/in/leonardo-miranda-sn/",
+		"displayValue": "https://www.linkedin.com/in/leonardo-miranda-sn/"
+	},
+	"link_title": {
+		"value": "LinkedIn",
+		"displayValue": "LinkedIn"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=84f7fad54783f91063d83b12d16d43d0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1854842429</payload_hash>
+        <record_name>Leonardo Miranda</record_name>
+        <reverted_from/>
+        <source>92ac5fc0478b751063d83b12d16d43f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 22:05:00</sys_created_on>
+        <sys_id>63d8be194783f91063d83b12d16d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c55c3215c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 22:05:00</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>2bd8be19bf83f91051435652385d6e0e</update_guid>
+        <update_guid_history>2bd8be19bf83f91051435652385d6e0e:-1854842429,2ad87e192d83f910bbb85cc27dc71ddf:1208636802,cf2876d5d783f910fe278018bd02340b:-1854842429,98f7fad52383f910c73a2bca7bfdcdd1:-570293703</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Leonardo Miranda">37228fd147c3f91063d83b12d16d43a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 22:45:43</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>8b7079db74554a94acc552f81b344544</sys_id>
+        <sys_metadata>84f7fad54783f91063d83b12d16d43d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leonardo Miranda</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_scope_delete display_value="">1cd3cb25595648b88f1987e330c00240</sys_scope_delete>
+        <sys_update_name>sp_instance_84f7fad54783f91063d83b12d16d43d0</sys_update_name>
+        <sys_update_version display_value="sp_instance_84f7fad54783f91063d83b12d16d43d0">63d8be194783f91063d83b12d16d430f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 22:45:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
