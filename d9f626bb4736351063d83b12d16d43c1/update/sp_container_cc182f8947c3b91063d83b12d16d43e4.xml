@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Minhas Aprovações - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="my_approvals">b44e9f8d4783b91063d83b12d16d4378</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 06:52:43</sys_created_on>
+        <sys_id>cc182f8947c3b91063d83b12d16d43e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Minhas Aprovações - Container 2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_update_name>sp_container_cc182f8947c3b91063d83b12d16d43e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 06:52:43</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

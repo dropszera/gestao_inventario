@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Gestão de Inventário Homepage - Container 9</name>
+        <order>9</order>
+        <semantic_tag/>
+        <sp_page display_value="ginv_index">771dfdf4474b391063d83b12d16d4307</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 21:35:32</sys_created_on>
+        <sys_id>33127a114783f91063d83b12d16d435a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Gestão de Inventário Homepage - Container 9</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_update_name>sp_container_33127a114783f91063d83b12d16d435a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 21:36:06</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</application>
+        <file_path/>
+        <instance_id>7a137395dbb6b154ae4c9027c5961911</instance_id>
+        <instance_name>dev227345</instance_name>
+        <name>sp_container_33127a114783f91063d83b12d16d435a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Gestão de Inventário Homepage - Container 9</name><order>9</order><semantic_tag/><sp_page display_value="ginv_index">771dfdf4474b391063d83b12d16d4307</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 21:35:32</sys_created_on><sys_id>33127a114783f91063d83b12d16d435a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Gestão de Inventário Homepage - Container 9</sys_name><sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope><sys_update_name>sp_container_33127a114783f91063d83b12d16d435a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 21:36:06</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>41972073</payload_hash>
+        <record_name>Gestão de Inventário Homepage - Container 9</record_name>
+        <reverted_from/>
+        <source>92ac5fc0478b751063d83b12d16d43f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 21:36:06</sys_created_on>
+        <sys_id>c842fa114783f91063d83b12d16d4383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c55a8aa330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 21:36:06</sys_updated_on>
+        <type>Container</type>
+        <update_guid>8042fa11a183f910ca88a21a7a6c4983</update_guid>
+        <update_guid_history>8042fa11a183f910ca88a21a7a6c4983:41972073,58227a11d683f910c92734d0bbfa1480:-56454870,37127a117883f9100544d49abe14935b:-154881813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Gestão de Inventário Homepage - Container 9">7f228fd147c3f91063d83b12d16d43c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 22:45:43</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>34192d11f4b847148eb4b4539870df10</sys_id>
+        <sys_metadata>33127a114783f91063d83b12d16d435a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gestão de Inventário Homepage - Container 9</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_scope_delete display_value="">1cd3cb25595648b88f1987e330c00240</sys_scope_delete>
+        <sys_update_name>sp_container_33127a114783f91063d83b12d16d435a</sys_update_name>
+        <sys_update_version display_value="sp_container_33127a114783f91063d83b12d16d435a">c842fa114783f91063d83b12d16d4383</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 22:45:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

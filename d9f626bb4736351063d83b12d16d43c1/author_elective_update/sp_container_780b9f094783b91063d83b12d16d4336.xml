@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Lista de Pedidos - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="lista_de_pedidos">affa97894783b91063d83b12d16d4374</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 05:55:42</sys_created_on>
+        <sys_id>780b9f094783b91063d83b12d16d4336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lista de Pedidos - Container 2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_update_name>sp_container_780b9f094783b91063d83b12d16d4336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 05:55:42</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</application>
+        <file_path/>
+        <instance_id>7a137395dbb6b154ae4c9027c5961911</instance_id>
+        <instance_name>dev227345</instance_name>
+        <name>sp_container_780b9f094783b91063d83b12d16d4336</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Lista de Pedidos - Container 2</name><order>2</order><semantic_tag/><sp_page display_value="lista_de_pedidos">affa97894783b91063d83b12d16d4374</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 05:55:42</sys_created_on><sys_id>780b9f094783b91063d83b12d16d4336</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lista de Pedidos - Container 2</sys_name><sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope><sys_update_name>sp_container_780b9f094783b91063d83b12d16d4336</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 05:55:42</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1635537681</payload_hash>
+        <record_name>Lista de Pedidos - Container 2</record_name>
+        <reverted_from/>
+        <source>92ac5fc0478b751063d83b12d16d43f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 05:55:42</sys_created_on>
+        <sys_id>f40b9f094783b91063d83b12d16d4338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c524bb6880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 05:55:42</sys_updated_on>
+        <type>Container</type>
+        <update_guid>3c0b9f092c83b9104064d852e5c3fd37</update_guid>
+        <update_guid_history>3c0b9f092c83b9104064d852e5c3fd37:1635537681</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Lista de Pedidos - Container 2">f90b9f894783b91063d83b12d16d43df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 05:55:47</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>8c05a3becec649608e99e0b2666f9b04</sys_id>
+        <sys_metadata>780b9f094783b91063d83b12d16d4336</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lista de Pedidos - Container 2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_scope_delete display_value="">1cd3cb25595648b88f1987e330c00240</sys_scope_delete>
+        <sys_update_name>sp_container_780b9f094783b91063d83b12d16d4336</sys_update_name>
+        <sys_update_version display_value="sp_container_780b9f094783b91063d83b12d16d4336">f40b9f094783b91063d83b12d16d4338</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 05:55:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

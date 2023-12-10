@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>linkedin-square</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>INSTRUTOR no Bootcamp AOOP Shark in ServiceNow #8</short_description>
+        <size>md</size>
+        <sp_column display_value="1">b147be954783f91063d83b12d16d4314</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 21:53:44</sys_created_on>
+        <sys_id>2646fa554783f91063d83b12d16d4390</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Joatan Fontoura</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_update_name>sp_instance_link_2646fa554783f91063d83b12d16d4390</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 21:59:02</sys_updated_on>
+        <title>Joatan Fontoura</title>
+        <type>url</type>
+        <url>https://www.linkedin.com/in/joatanfontoura/</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=2646fa554783f91063d83b12d16d4390"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</application>
+        <file_path/>
+        <instance_id>7a137395dbb6b154ae4c9027c5961911</instance_id>
+        <instance_name>dev227345</instance_name>
+        <name>sp_instance_link_2646fa554783f91063d83b12d16d4390</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;linkedin-square&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;INSTRUTOR no Bootcamp AOOP Shark in ServiceNow #8&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;b147be954783f91063d83b12d16d4314&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-10 21:53:44&lt;/sys_created_on&gt;&lt;sys_id&gt;2646fa554783f91063d83b12d16d4390&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Joatan Fontoura&lt;/sys_name&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0"&gt;d9f626bb4736351063d83b12d16d43c1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;d9f626bb4736351063d83b12d16d43c1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_2646fa554783f91063d83b12d16d4390&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-10 21:59:02&lt;/sys_updated_on&gt;&lt;title&gt;Joatan Fontoura&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://www.linkedin.com/in/joatanfontoura/&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2646fa554783f91063d83b12d16d4390"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1976041926</payload_hash>
+        <record_name>Joatan Fontoura</record_name>
+        <reverted_from/>
+        <source>92ac5fc0478b751063d83b12d16d43f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 21:59:02</sys_created_on>
+        <sys_id>8887b2d54783f91063d83b12d16d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c55bdaadc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 21:59:02</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>4087b2d57c83f9102814a1338beef199</update_guid>
+        <update_guid_history>4087b2d57c83f9102814a1338beef199:-1976041926,276772d5ec83f910336408b6a04fe94a:-1724049521,c067ba956883f910f039311a1fbef79b:-458617572,3647be95b083f910238901c309c2186c:1279955727,c076be550183f9108f40a7143624ba3e:-2096798307,e646fa55ed83f910866abc20f39a5f91:-2066972550</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Joatan Fontoura">d622cbd147c3f91063d83b12d16d432b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 22:45:36</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>172e0f5e807042d78688fd80764aa029</sys_id>
+        <sys_metadata>2646fa554783f91063d83b12d16d4390</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Joatan Fontoura</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_scope_delete display_value="">1cd3cb25595648b88f1987e330c00240</sys_scope_delete>
+        <sys_update_name>sp_instance_link_2646fa554783f91063d83b12d16d4390</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_2646fa554783f91063d83b12d16d4390">8887b2d54783f91063d83b12d16d4399</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 22:45:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

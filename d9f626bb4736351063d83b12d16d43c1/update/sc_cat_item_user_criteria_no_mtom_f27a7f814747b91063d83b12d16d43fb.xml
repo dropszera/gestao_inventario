@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Novo Produto">85c1bf454707b91063d83b12d16d430b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 08:13:12</sys_created_on>
+        <sys_id>f27a7f814747b91063d83b12d16d43fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Novo Produto.Analistas Gestão de Inventário</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251656_gest_o_0">d9f626bb4736351063d83b12d16d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d9f626bb4736351063d83b12d16d43c1</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_f27a7f814747b91063d83b12d16d43fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 08:13:12</sys_updated_on>
+        <user_criteria display_value="Analistas Gestão de Inventário">354aff814747b91063d83b12d16d4365</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>
